@@ -48,5 +48,19 @@
     "@types/react": "~19.1.10",
     "expo": "^54.0.21",
     "typescript": "~5.9.2"
-  }
+  },
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishhpdave/HisabApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishhpdave/HisabApp/issues"
+  },
+  "homepage": "https://github.com/ashishhpdave/HisabApp#readme"
 }
